@@ -1,0 +1,15 @@
+body{
+	background-color:lightblue;
+	padding:16px;
+}
+
+img{
+	width: 200px;
+	float:right;
+	border:2px solid black;
+}
+
+#img1{
+	margin-right:16px;
+	margin-bottom:16px;
+}
